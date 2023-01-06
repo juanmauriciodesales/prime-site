@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prime/Home/static/css/main.eebba63e.css",
+    "main.js": "/prime/Home/static/js/main.48c836dc.js",
+    "index.html": "/prime/Home/index.html",
+    "main.eebba63e.css.map": "/prime/Home/static/css/main.eebba63e.css.map",
+    "main.48c836dc.js.map": "/prime/Home/static/js/main.48c836dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebba63e.css",
+    "static/js/main.48c836dc.js"
+  ]
+}
